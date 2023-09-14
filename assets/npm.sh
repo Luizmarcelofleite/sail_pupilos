@@ -1,1 +1,1 @@
-bash ~/projects/sail/bin/sail exec nodejs npm $@
+bash ~/Documentos/Projetos/sail/bin/sail exec nodejs npm $@
